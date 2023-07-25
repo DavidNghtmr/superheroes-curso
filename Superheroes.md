@@ -2,7 +2,7 @@
 
 - Spider-man
 - Wolverine
-- Batman
-- Hulk
 - Dedpool
 - Venom
+- Hulk
+- Iron-man
