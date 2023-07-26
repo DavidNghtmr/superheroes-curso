@@ -7,3 +7,4 @@
 - Hulk
 - Iron-man
 - Superman
+- Batman
