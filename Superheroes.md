@@ -6,3 +6,4 @@
 - Venom
 - Hulk
 - Iron-man
+- Superman
